@@ -1,5 +1,5 @@
 
-### Hi! Welcome to my cozy corner :)
+### Hi! Welcome :)
 ![](https://komarev.com/ghpvc/?username=EmanuelPeixoto&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mortifero_kill/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/emanuel-peixoto-gomes-aa4910209/) &nbsp; <a href="mailto:peixoto_emanuel@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
