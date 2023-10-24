@@ -10,7 +10,7 @@
 </h1>
   
 - 🔭 I'm currently studying computer science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
-- 🌱 I’m currently learning: PROLOG
+- 🌱 I’m currently learning: Nix
   
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
