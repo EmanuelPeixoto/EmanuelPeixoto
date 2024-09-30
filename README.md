@@ -25,7 +25,7 @@
 <details>
   <summary>Click to see detailed Wakatime stats</summary>
   
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmanuelPeixoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://wakatime.com/share/@18f41d49-fdc6-47cb-a2a6-0db7109852ac/146edba0-2e91-4e41-81ea-fa793c67b267.svg"/>
 </details>
 
 ## 🛠️ Skills and Tools
