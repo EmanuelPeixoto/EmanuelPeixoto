@@ -40,7 +40,7 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/MintzyG/SCTI">
+  <a href="https://github.com/cciuenf/SCTI-2024">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cciuenf&repo=SCTI-2024&theme=midnight-purple" alt="SCTI" />
   </a>
 </p>
