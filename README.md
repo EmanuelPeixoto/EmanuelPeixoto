@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/MintzyG/SCTI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MintzyG&repo=SCTI&theme=midnight-purple" alt="SCTI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cciuenf&repo=SCTI-2024&theme=midnight-purple" alt="SCTI" />
   </a>
 </p>
 <p align="center">
