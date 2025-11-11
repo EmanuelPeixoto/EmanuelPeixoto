@@ -2,6 +2,7 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=EmanuelPeixoto&label=Profile%20Visits&color=blue&style=for-the-badge)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mortifero_kill/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peixoto-emanuel/)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leunamepeixoto+readme@gmail.com/)
 
 ## 👨‍💻 About Me
 - 🎓 Currently studying Computer Science at Universidade Federal do Norte Fluminense Darcy Ribeiro (UENF)
